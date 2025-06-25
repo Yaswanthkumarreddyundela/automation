@@ -25,7 +25,7 @@ Ensure the following before starting:
 ### 1. 📁 Clone or Download the Script
 
 ```bash
-git clone https://github.com/yaswanthkumarreddy/automation.git
+git clone https://github.com/Yaswanthkumarreddyundela/automation.git
 cd automation
 ````
 
